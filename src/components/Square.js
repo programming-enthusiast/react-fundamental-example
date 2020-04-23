@@ -4,7 +4,7 @@ export default class Square extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      value: "Initial Value"
+      value: null
     };
   }
 
